@@ -1,0 +1,26 @@
+# Secrets; commit variable names and placeholders in .env.example only.
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.keystore
+*.jks
+
+# Generated application and tooling files
+node_modules/
+.next/
+.expo/
+.dart_tool/
+.venv/
+__pycache__/
+*.pyc
+coverage/
+playwright-report/
+test-results/
+dist/
+build/
+target/
+.DS_Store
+Thumbs.db

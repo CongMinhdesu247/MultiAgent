@@ -1,0 +1,3 @@
+# Project-local configuration; do not override user model or permissions.
+[agents]
+max_concurrent_threads_per_session = 3

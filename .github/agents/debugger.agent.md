@@ -6,6 +6,9 @@ user-invocable: false
 
 Act as a senior debugging engineer.
 
+Read AGENTS.md and stay within the assigned paths. Coordinate shared-file fixes
+with the root agent. Record platform, environment and exact reproduction.
+
 Given a reproducible failure:
 
 1. reproduce it
